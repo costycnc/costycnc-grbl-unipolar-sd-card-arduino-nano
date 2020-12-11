@@ -1,3 +1,5 @@
 # costycnc-grbl-unipolar-sd-card-arduino-nano
+    insert costycnc folder in documents arduino ... see photo
     Project for include sd card to grbl 1.1h
+    copied from:
 https://github.com/ryanj1234/SD_TUTORIAL_PART4
