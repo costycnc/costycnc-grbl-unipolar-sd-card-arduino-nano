@@ -3,3 +3,6 @@
     Project for include sd card to grbl 1.1h
     copied from:
 https://github.com/ryanj1234/SD_TUTORIAL_PART4
+
+    beautiful tutorial about sdcard:
+http://www.edproject.co.uk/18Series15.html
